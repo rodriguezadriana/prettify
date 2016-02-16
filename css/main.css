@@ -1,0 +1,88 @@
+/* Inserta tu CSS aqui */
+.menu{
+	list-style: none;
+	margin-left: 250px;
+	margin-top: 40px;
+}
+.lista{
+	display:block;
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 30px ;
+    font-family: arial;
+}
+.crop {
+    float: left;
+    margin: .5em 10px .5em 0;
+    overflow: hidden; /*  importante */
+    position: relative; /*  importante*/
+    border: 1px solid #ccc;
+    width: 100%;
+    height: 350px;
+
+}
+.crop img {
+    position: relative;
+    top: -100px;
+    left: -70px;
+}
+#logo{
+	margin: 200px 0px 300px 570px;
+	position: absolute;
+	text-align: center;
+}
+.blanco{
+	color: #ffffff;
+    padding: 10px;
+}
+
+
+.hare{
+	font-size: 30px;
+}
+.foto{
+	width: 150px;
+	height: 150px;
+	margin-left: 100px;
+}
+.morado{
+	color: 	#B81065;
+	font-size: 30px;
+	 margin-left: 650px;
+	 margin-top: 70px;
+}
+.morado2{
+	color: 	#B81065;
+	
+	 margin-left: 600px;
+	 
+}
+.circulo{
+
+ border-radius: 200px; 
+ -webkit-border-radius: 200px;
+  -moz-border-radius: 220px; 
+  background: no-repeat;
+
+
+}
+.justificado{
+	text-align: center;
+	padding: 50px;
+}
+.mar{
+	margin: 50px 0px 0px 200px;
+}
+.contact{
+	border-radius: 200px; 
+ -webkit-border-radius: 200px;
+  -moz-border-radius: 220px; 
+  background: no-repeat;
+
+}
+.foto2{
+	width: 100px;
+	height: 100px;
+	margin-left: 130px;
+}
